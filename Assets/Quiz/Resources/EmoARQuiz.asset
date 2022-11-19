@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: EmoARQuiz
+  m_EditorClassIdentifier: 
+  categoryName: Easy Mode
+  questions:
+  - questionInfo: Do You think the bull is sad or Happy?
+    questionType: 3
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: 72c507dc80cda464a8aac43a69325857, type: 3}
+    options:
+    - Sad
+    - Happy
+    - Angry
+    - Excited
+    correctAns: Angry
+  - questionInfo: Guess the Emotion?
+    questionType: 3
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: f334f861e70deba499ce415945f02a50, type: 3}
+    options:
+    - 'Sad '
+    - Angry
+    - Happy
+    - Excited
+    correctAns: Happy
+  - questionInfo: Guess the Emotion?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: 9b0b9cd82c6bf0d48ba4aadcf287dfe6, type: 3}
+    options:
+    - Sad
+    - Happy
+    - Angry
+    - Excited
+    correctAns: Excited
+  - questionInfo: Guess the Emotion?
+    questionType: 3
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: b227fa2b32cbc1443aa32dada56a1106, type: 3}
+    options:
+    - Angry
+    - Excited
+    - Happy
+    - Sad
+    correctAns: Angry
+  - questionInfo: Guess the Emotion?
+    questionType: 3
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: 2d37ec5b80a72a440874301efcb6130f, type: 3}
+    options:
+    - Angry
+    - Sad
+    - Happy
+    - Excited
+    correctAns: Sad
+  - questionInfo: Guess the Emotion?
+    questionType: 3
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: f1ebee4d28908b74985fd35076a8c259, type: 3}
+    options:
+    - Happy
+    - Angry
+    - Sad
+    - Excited
+    correctAns: Sad
+  - questionInfo: Guess the Emotion?
+    questionType: 3
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: f1ebee4d28908b74985fd35076a8c259, type: 3}
+    options:
+    - Happy
+    - Angry
+    - Sad
+    - Excited
+    correctAns: Sad
